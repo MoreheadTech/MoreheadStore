@@ -1,0 +1,9 @@
+[
+  {
+    "name": "Flappy Bird",
+    "bundleIdentifier": "org.brandonplank.flappybird",
+    "version": "4.3.0",
+    "url": "https://trollrepo.mhcte.ch/apps/flappybird.ipa",
+    "description": "Unofficial Flappy bird revived for newer iOS versions by brandonplank!"
+  }
+]
